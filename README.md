@@ -1,7 +1,5 @@
 # GB Power Demand Forecasting using Prophet
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 ## Description
 
 This repository provides tools for forecasting the power demand of Great Britain (GB) using Facebook's [Prophet](https://facebook.github.io/prophet/) model. The repository includes Python functions and Jupyter notebooks that illustrate how to apply Prophet for daily and monthly forecasting, quantifying the effect of weather and other regressors (e.g., GDP), and using HyperOpt for tuning hyperparameters.
